@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        System.out.print("inter a big number: ");
+        System.out.print("inter a big number:  ");
 
         String number = s.next();
         List<Character> list = new ArrayList<>();
